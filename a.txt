@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 be a nice girl, God will bless you。
+=======
+hello world
+stay awesome
+>>>>>>> 0abc6ac5409799fe6a77be8b4fc3cdcd18754d5f
